@@ -1,0 +1,2 @@
+# coinpot
+mining otomatis
